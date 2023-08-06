@@ -10,3 +10,13 @@ Welcome to the world of autonomous robotics! This project showcases a remarkable
 * Obstacle Avoidance: The robot employs sophisticated algorithms to determine optimal paths, ensuring smooth and collision-free movement.
 * Navigation System: Explore the intelligent navigation system that guides the robot from its initial position to the desired endpoint.
 * Future-Ready: This project opens doors to a multitude of applications, from warehouse automation to assistive robotics.
+
+## Demo Video:
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Rcwe0UfoUPs" target="_blank">
+    <img src="https://img.youtube.com/vi/Rcwe0UfoUPs/0.jpg" alt="Video Thumbnail" width="650" height="480">
+  </a>
+</p>
+
+
